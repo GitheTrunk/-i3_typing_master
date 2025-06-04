@@ -19,6 +19,6 @@ A simple web that can register, login, test typing, and view results.
 
 # Notes
 
-. This is a fronted-only. Form submissions are simulated with alerts.
-. All files should be in the same directory.
-. Enhance with a backend (e.g, Node.js) for real data storage.
+- This is a fronted-only. Form submissions are simulated with alerts.
+- All files should be in the same directory.
+- Enhance with a backend (e.g, Node.js) for real data storage.
